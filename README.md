@@ -5,7 +5,8 @@ This app is an assessment task provided by HaskTek Solutions. All the steps in t
 
 ## App Overview Video
 
-<video src="Recording/HaskTek Solutions Assignment.mp4" controls  width=400/>
+https://github.com/aricodeine/hashtek_assessment/assets/88302441/fbab4a58-fc97-4f83-afc1-94a06fd2acde
+
 
 
 
